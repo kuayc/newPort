@@ -1,3 +1,3 @@
-New portfolio to showcase my experience and projects.
+New portfolio to showcase projects.
 
 https://kuayc.github.io/newPort/
